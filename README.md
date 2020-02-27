@@ -1,5 +1,3 @@
-# Lifeclock
-Snake Pliskin
 Requires the following libraries
 Tiny Wire M: https://github.com/adafruit/TinyWireM
 Liquid Crystal IIC: https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library/blob/master/LiquidCrystal_I2C.h
